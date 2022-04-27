@@ -1,2 +1,2 @@
 # my-projects
-AWS portfolio dersleri
+AWS portfolio exercises
