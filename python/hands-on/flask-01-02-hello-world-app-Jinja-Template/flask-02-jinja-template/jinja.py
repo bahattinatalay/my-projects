@@ -13,5 +13,5 @@ def number():
 
 if __name__ == '__main__':
     app.run(debug=True, port=2001) 
-#  default degeri port 5000 olarak atanir, localhost:5000 yaziyoruz, olmazsa port belirle 
+#  default degeri port 5000 olarak atanir, localhost:5000 yaziyoruz, olmazsa sirayla port belirle 
 #  debug= True yapinca, hatanin yerini gösterir
