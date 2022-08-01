@@ -1,2 +1,2 @@
 # my-projects
-AWS portfolio exercises
+AWS and DevOps portfolio exercises
